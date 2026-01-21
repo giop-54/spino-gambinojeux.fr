@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conditions générales \| Utilisation du site Plinko on Spino-gambinojeux</title>
-    <link>http://localhost:1313/termes-et-conditions/</link>
+    <link>https://spino-gambinojeux.fr/termes-et-conditions/</link>
     <description>Recent content in Conditions générales \| Utilisation du site Plinko on Spino-gambinojeux</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/termes-et-conditions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spino-gambinojeux.fr/termes-et-conditions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
