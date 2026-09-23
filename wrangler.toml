@@ -1,0 +1,11 @@
+name = "spino-gambinojeux-fr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spino-gambinojeux.fr"
+HMAC_KEY = "b20a786fa924bf5165dc554b8b13ae1458404c61ce4ab6925a5c754096d739b0"
+COOKIE_NAME = "7gn"
+PLAY_PATH = "start"
+BUTTON_ID = "p36ddd1cdfe1eb31f9c1aedc83d4e7eaa"
+GATE_SALT = "4f6e94fcd307d856"
